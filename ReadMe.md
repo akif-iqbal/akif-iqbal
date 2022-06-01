@@ -1,8 +1,8 @@
 # 💫About Me :
-Completed my 6th semester
-Currently learning about ML classifiers, networking and scripting languages
-Improving DSA and technical knowledge
-Looking for internships to gain experience and collaborate with experts
+Completed my 6th semester<br />
+Currently learning about ML classifiers, networking and scripting languages<br />
+Improving DSA and technical knowledge<br />
+Looking for internships to gain experience and collaborate with experts<br />
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akif-iqbal-6b1462217) 
